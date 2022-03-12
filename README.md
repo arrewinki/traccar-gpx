@@ -1,4 +1,4 @@
-Convierte formato traccar (2 columnas con latitud y longitud) en formato GPX
+Convierte formato traccar (2 columnas con latitud y longitud) en formato GPX.
 
 Añadir 2 columnas con latitud y longitud a fichero input
 
